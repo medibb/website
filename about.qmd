@@ -6,14 +6,13 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/msk8rehab
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/jaehyun-lee-34246ab2
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/medibb
 ---
 
 About this blog

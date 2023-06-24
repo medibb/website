@@ -13,9 +13,11 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/medibb
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/msk8rehab
+      - icon: instagram
+        href: https://www.instagram.com/msk8rehab
     toc:
       before: |
         <nav class="toc">
