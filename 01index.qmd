@@ -1,0 +1,54 @@
+![](image/profile.png){width="578"}
+
+**Jaehyun Lee M.D. Korean board-certified physiatrist**
+
+**Assistant Professor**, Kosin University College of Medicine, Busan, South Korea
+
+**Assistant Professor**, Kosin University Gospel Hospital, Busan, South Korea
+
+Email: JHL\@kosin.ac.kr
+
+## Education
+
+**Seoul National University Hospital** - Seoul, Korea
+
+Research Fellowship, Musculoskeletal Rehabilitation Medicine
+
+**Kosin University Gospel Hospital** - Busan, Korea
+
+Residency, Department of Rehabilitation Medicine
+
+**Pukyeong National University** - Busan, Korea
+
+Ph.D. candidate, Graduate School of Artificial Intelligence Convergence
+
+**Kosin University** - Busan, Korea
+
+M.S., Graduate School of Medicine
+
+B.S., College of Medicine
+
+## Clinical Focus
+
+Musculoskeletal Rehabilitation
+
+-   Spine disease, discogenic pain, radiating pain
+
+-   Joint disease, shoulder, knee, hip, elbow, hand & wrist, foot & ankle\
+
+## Research Interests
+
+-   Basic & clinical research about musculoskeletal systems
+-   Recent research topics
+    -   Calcific tendinitis: genetic background & radiologic quantification
+    -   Spinal stability: biokinetics, biomechanics of spinal balance and motor control
+    -   AI application for rehabilitative exercise
+    -   Others: uncertainty & reference standards of nerve conduction study, intra-articular pressure characteristics of knee
+
+## 홈페이지 소개
+
+-   [논문 및 프로젝트](_site/02publications.html): 출판된 논문 및 진행한 프로젝트를 소개하는 페이지 입니다.
+
+-   [활동](_site/03activities.html): 강의 활동, 리뷰, 연구회참여, 교육, 방송출연에 대하여 소개한 페이지입니다.
+
+-   [앨범](_site/04album.html): 활동에 대한 사진 기록입니다.

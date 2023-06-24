@@ -1,0 +1,75 @@
+project:
+  type: website
+
+website:
+  title: "MSK8REHAB"
+  navbar:
+    left:
+      - href: 01index.qmd
+        text: Home
+      - 02publications.qmd
+      - 03activities.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+    toc:
+      before: |
+        <nav class="toc">
+          <h2>Table of Contents</h2>
+          <ul>
+      after: |
+          </ul>
+          </nav>
+        
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    number_sections: true
+    theme:
+      name: readable
+      primary_color: "#2980b9"
+      secondary_color: "#3498db"
+      font: Arial, sans-serif
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+script:
+  head: |
+    <style>
+      /* 스타일링을 위한 CSS 스타일 시트 */
+
+      /* 예시: 네비게이션 바 배경색 변경 */
+      .navbar {
+        background-color: #f8f9fa;
+      }
+
+      /* 예시: 목차 스타일 변경 */
+      .toc {
+        background-color: #f1f1f1;
+        padding: 10px;
+      }
+
+      .toc h2 {
+        color: #333;
+      }
+
+      .toc ul {
+        list-style-type: none;
+        padding-left: 0;
+      }
+
+      .toc ul li {
+        margin-bottom: 5px;
+      }
+    </style>

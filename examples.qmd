@@ -1,0 +1,66 @@
+#예시 모음 by ChatGPT
+
+## 논문 1
+
+-   **제목:** 논문 제목 1
+-   **저자:** 저자 1, 저자 2, 저자 3
+-   **요약:** 논문 1에 대한 간단한 요약이 여기에 들어갑니다.
+-   [전문 보기](publications/paper1.html)
+
+## 논문 2
+
+-   **제목:** 논문 제목 2
+-   **저자:** 저자 4, 저자 5
+-   **요약:** 논문 2에 대한 간단한 요약이 여기에 들어갑니다.
+-   [전문 보기](publications/paper2.html)
+
+## 논문 3
+
+-   **제목:** 논문 제목 3
+-   **저자:** 저자 6, 저자 7, 저자 8
+-   **요약:** 논문 3에 대한 간단한 요약이 여기에 들어갑니다.
+-   [전문 보기](publications/paper3.html)
+
+## Supervision of Graduate Students
+
+-   Currently supervising two Ph.D. candidates in the field of Rehabilitation Medicine
+-   Supervised and mentored several master's degree students in research projects related to musculoskeletal rehabilitation and biomechanics
+
+## Professional Development Workshops
+
+-   Workshop on Advanced Rehabilitation Technology
+    -   Date: March 18, 2022
+    -   Location: Busan, South Korea
+-   Workshop on Clinical Research Methodology
+    -   Date: July 7, 2023
+    -   Location: Seoul, South Korea
+
+## Grant Title: Investigating the Effects of Exercise Intervention on Musculoskeletal Health
+
+### Funding Agency: National Research Foundation of Korea
+
+### Project Duration: 2022-2025
+
+### Overview:
+
+The research grant aims to investigate the effects of exercise intervention on musculoskeletal health in various populations. The project will focus on understanding the mechanisms through which exercise can improve musculoskeletal function, prevent injuries, and promote overall health and well-being. The study will involve conducting clinical trials, collecting data on exercise interventions, and analyzing the outcomes related to musculoskeletal health. The findings of this research will contribute to the development of evidence-based exercise programs for different patient groups and individuals seeking to improve their musculoskeletal health.
+
+## Grant Title: Exploring Novel Therapeutic Approaches for Spinal Stability
+
+### Funding Agency: Korean Foundation for Medical Research
+
+### Project Duration: 2023-2026
+
+### Overview:
+
+This research grant aims to explore novel therapeutic approaches for spinal stability. The project will investigate the biomechanics and motor control mechanisms involved in maintaining spinal stability and develop innovative therapeutic strategies for individuals with spinal disorders. The study will involve a combination of experimental studies, computational modeling, and clinical trials to advance our understanding of spinal stability and develop effective interventions. The outcomes of this research will have implications for the prevention and treatment of spinal conditions and contribute to improving the quality of life for patients with spinal disorders.
+
+## Grant Title: Application of Artificial Intelligence in Rehabilitation Medicine
+
+### Funding Agency: Ministry of Science and ICT, South Korea
+
+### Project Duration: 2021-2024
+
+### Overview:
+
+This research grant focuses on the application of artificial intelligence (AI) in rehabilitation medicine. The project aims to develop AI-based tools and technologies that can enhance the assessment, diagnosis, and treatment of patients undergoing rehabilitation. The research will involve developing machine learning algorithms, analyzing large datasets, and integrating AI systems into clinical practice. The outcomes of this research will contribute to improving the efficiency and effectiveness of rehabilitation interventions, enabling personalized treatment plans, and optimizing patient outcomes.
