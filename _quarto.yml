@@ -6,10 +6,10 @@ website:
   title: "MSK8REHAB"
   navbar:
     left:
-      - href: 01index.qmd
+      - href: index.qmd
         text: Home
-      - 02publications.qmd
-      - 03activities.qmd
+      - 01publications.qmd
+      - 02activities.qmd
     right:
       - about.qmd
       - icon: github
