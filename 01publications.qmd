@@ -19,8 +19,10 @@
 
 ## International Conference
 
-1.  Jung, Jae-Wook and Jeon, San-Eun and Hong, Jun-Pyo and Kim, Ju-Hyeon and Bae, Yeong-Kyun and Lee, Jae-Hyun. Learning Based Clinical Diagnosis Framework for Inconsistently and Partially Labeled Dataset.: In 2022 Thirteenth International Conference on Ubiquitous and Future Networks (ICUFN), Barcelona, Spain, pp. 489-493, IEEE. 20 July, 2022. https://doi.org/10.1109/ICUFN55119.2022.9829699
-2.  Jaehyun Lee, Eunkyung Kim, Jihong Park, Keewon Kim,Jae-Young Lim, Seung Hak Lee, Sang Yoon Lee, Shi-Uk Lee, Sun Gun Chung, Byung-Mo Oh. STANDARD REFERENCE DATA OF MEDIAN NERVE CONDUCTION STUDY WITH CONSIDERATION OF EXTENDED UNCERTAINT:in 2019 AANEM Annual Meeting Abstract Guide Austin, TX, USA, 16--19 October, 2019. https://doi.org/10.1002/mus.26647
+1.  Jung, Jae-Wook and Jeon, San-Eun and Hong, Jun-Pyo and Kim, Ju-Hyeon and Bae, Yeong-Kyun and Lee, Jae-Hyun. Learning Based Clinical Diagnosis Framework for Inconsistently and Partially Labeled Dataset.: In 2022 Thirteenth International Conference on Ubiquitous and Future Networks (ICUFN), Barcelona, Spain, pp. 489-493, IEEE. July 20, 2022. https://doi.org/10.1109/ICUFN55119.2022.9829699
+1.  Jaehyun Lee, Eunkyung Kim, Jihong Park, Keewon Kim, Jae-Young Lim, Seung Hak Lee, Sang Yoon Lee, Shi-Uk Lee, Sun Gun Chung, Byung-Mo Oh. STANDARD REFERENCE DATA OF MEDIAN NERVE CONDUCTION STUDY WITH CONSIDERATION OF EXTENDED UNCERTAINT:in 2019 AANEM Annual Meeting Abstract Guide Austin, TX, USA, October 16-19, 2019. https://doi.org/10.1002/mus.26647
+1. Jaehyun Lee, Keewon Kim, Sun Gun Chung. Intra-articular Pressure Characteristics of the Knee Joint:in Orthopaedic summit 2018, Las vegas, NV, USA, December 5-8, 2018
+
 
 ## Korean Domestic Journal
 
