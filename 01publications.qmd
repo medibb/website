@@ -2,55 +2,54 @@
 
 ## International Journals (SCI/SCI-E/SCOPUS)
 
-1.  Jae Yoon Kim, Eunkyung Kim, Hyung-Seok Shim, **Jae Hyun Lee**, Goo Joo Lee, Keewon Kim, Jae-Young Lim, Jaewon Beom, Sang Yoon Lee, Shi-Uk Lee, Sun Gun Chung, Byung-Mo Oh, Uncertainty-Based Reference Standards for Lower Extremity Nerve Conduction Studies in Korean Adults, Annals of Rehabilitation Medicine, 2022. Accepted for publication
-2.  **Jae Hyun Lee**, Keewon Kim, Sun Gun Chung, "Intra-articular pressure characteristics of the knee joint: An exploratory study", Journal of Orthopaedic Research, 2021-12-11. https://doi.org/10.1002/jor.25236
-3.  Han Eum Choi, Yeong Kyun Bae, **Jae Hyun Lee**, Ghi Chan Kim, Ho Joong Jeong, and Young Joo Sim, "Lymphedema Index Ratio As Predictive Factor of Treatment in Patients with Breast Cancer-Related Lymphedema", Lymphat Res Biol, 2021-10-25. https://doi.org/10.1089/lrb.2021.0029
-4.  Han Eum Choi, Jae Hyun Lee, Young-Joo Sim, Ho Joong Jeong, Ghi Chan Kim, "Predictors of prolonged vancomycin-resistant enterococci colonization in acute stroke patients admitted to an intensive care unit: A retrospective cohort study", Medicine, 2021-08-13. http://dx.doi.org/10.1097/MD.0000000000026913
-5.  Bo Seong Jang, Jun Young Park, Jae Hyun Lee, Young Joo Sim, Ho Joong Jeong, Ghi Chan Kim, "Clinical Factors Associated With Successful Gastrostomy Tube Weaning in Patients With Prolonged Dysphagia After Stroke", Annals of Rehabilitation Medicine, 2021-02-18. https://doi.org/10.5535/arm.20149
-6.  Seong Hwan Ryu, Bo Seong Jang, Jae Hyun Lee, Ho Joong Jeong, Ghi Chan Kim, Young Joo Sim, "Comparison of bilateral lymphedema and unilateral lymphedema in lower extremities after gynecologic cancer surgery". Clinical and Experimental Obstetrics & Gynecology, 2020-12. https://ceog.imrpress.com/article/2020/0390-6663/0390-6663-47-6-829.shtml
-7.  Chul-Hyun Park, Beom Suk Kim, Jae Hyun Lee, Sun Gun Chung, "Optimal Elbow Positions for Identification of the Radial Collateral Ligament using Ultrasonography", PM&R, 2019-10-31. https://doi.org/10.1002/pmrj.12274
-8.  Byung-Mo Oh, Jae Hyun Lee, Han Gil Seo, Woo Hyung Lee, Tai Ryoon Han, Seoung Uk Jeong, Ho Joong Jeong, Young-Joo Sim, "Changes in Hyolaryngeal Movement During Swallowing in the Lateral Decubitus Posture", Annals of Rehabilitation Medicine, 2018-06-30. https://doi.org/10.5535/arm.2018.42.3.416
-9.  Seok Gyo Park, Seong Uk Jeong, Jae Hyun Lee, Sang Hyeong Ryu, Ho Joong Jeong, Young Joo Sim, Dong Kyu Kim, Ghi Chan Kim, "The Changes of CTX, DPD, Osteocalcin, and Bone Mineral Density During the Postmenopausal Period", Annals of Rehabilitation Medicine, 2018-06-30. https://doi.org/10.5535/arm.2018.42.3.441
-10. Ho Joong Jeong, Kyung Hwan Roh, Ghi Chan Kim, Young Ok Kim, Jae Hyun Lee, M.J, Lee, Young Joo Sim, "Hyaluronidase treatment of acute lymphedema in a mouse tail model", Lymphology, 2013-12. http://www.scopus.com/inward/record.url?eid=2-s2.0-84896787889&partnerID=MN8TOARS
-11. Jae Hyun Lee, Bae Wook Shin, Ho Joong Jeong, Ghi Chan Kim, Dong Kyu Kim, Young Joo Sim, "Ultrasonographic Evaluation of Therapeutic Effects of Complex Decongestive Therapy in Breast Cancer-Related Lymphedema", Ann Rehabil Med, 2013-10. https://doi.org/10.5535/arm.2013.37.5.683
-12. Ho Joong Jeong, Ghi Chan Kim, Young Joo Sim, Jae Hyun Lee, "Chronic lymphedema due to constriction", Lymphatic Research and Biology, 2013-06. http://www.scopus.com/inward/record.url?eid=2-s2.0-84879336039&partnerID=MN8TOARS
+1.  **Jae Hyun Lee**, Dong-Kun Kim, Mi-Yeon Lee, Han-Sol Lim, Min-Jung Kwon, Yong-Taek Lee, Kyung Jae Yoon, Chul-Hyun Park, "The Association of Carbohydrate Antigen (CA) 19-9 levels and Low Skeletal Muscle Mass in Healthy Adults", Nutrients, 2023, accepted for publication
+2.  **Jae Hyun Lee**, Keewon Kim, Sun Gun Chung, "Intra-articular pressure characteristics of the knee joint: An exploratory study", Journal of Orthopaedic Research, 2022-09-18. https://doi.org/10.1002/jor.25236
+3.  Jae Yoon Kim, Eunkyung Kim, Hyung-Seok Shim, **Jae Hyun Lee**, Goo Joo Lee, Keewon Kim, Jae-Young Lim, Jaewon Beom, Sang Yoon Lee, Shi-Uk Lee, Sun Gun Chung, Byung-Mo Oh, Uncertainty-Based Reference Standards for Lower Extremity Nerve Conduction Studies in Korean Adults, Annals of Rehabilitation Medicine, 2022-02-28. https://doi.org/10.5535/arm.21170
+4.  Han Eum Choi, Yeong Kyun Bae, **Jae Hyun Lee**, Ghi Chan Kim, Ho Joong Jeong, and Young Joo Sim, "Lymphedema Index Ratio As Predictive Factor of Treatment in Patients with Breast Cancer-Related Lymphedema", Lymphat Res Biol, 2021-10-25. https://doi.org/10.1089/lrb.2021.0029
+5.  Han Eum Choi, **Jae Hyun Lee**, Young-Joo Sim, Ho Joong Jeong, Ghi Chan Kim, "Predictors of prolonged vancomycin-resistant enterococci colonization in acute stroke patients admitted to an intensive care unit: A retrospective cohort study", Medicine, 2021-08-13. http://dx.doi.org/10.1097/MD.0000000000026913
+6.  Bo Seong Jang, Jun Young Park, **Jae Hyun Lee**, Young Joo Sim, Ho Joong Jeong, Ghi Chan Kim, "Clinical Factors Associated With Successful Gastrostomy Tube Weaning in Patients With Prolonged Dysphagia After Stroke", Annals of Rehabilitation Medicine, 2021-02-18. https://doi.org/10.5535/arm.20149
+7.  Seong Hwan Ryu, Bo Seong Jang, **Jae Hyun Lee**, Ho Joong Jeong, Ghi Chan Kim, Young Joo Sim, "Comparison of bilateral lymphedema and unilateral lymphedema in lower extremities after gynecologic cancer surgery". Clinical and Experimental Obstetrics & Gynecology, 2020-12. https://ceog.imrpress.com/article/2020/0390-6663/0390-6663-47-6-829.shtml
+8.  Chul-Hyun Park, Beom Suk Kim, **Jae Hyun Lee**, Sun Gun Chung, "Optimal Elbow Positions for Identification of the Radial Collateral Ligament using Ultrasonography", PM&R, 2019-10-31. https://doi.org/10.1002/pmrj.12274
+9.  Byung-Mo Oh, **Jae Hyun Lee**, Han Gil Seo, Woo Hyung Lee, Tai Ryoon Han, Seoung Uk Jeong, Ho Joong Jeong, Young-Joo Sim, "Changes in Hyolaryngeal Movement During Swallowing in the Lateral Decubitus Posture", Annals of Rehabilitation Medicine, 2018-06-30. https://doi.org/10.5535/arm.2018.42.3.416
+10. Seok Gyo Park, Seong Uk Jeong, **Jae Hyun Lee**, Sang Hyeong Ryu, Ho Joong Jeong, Young Joo Sim, Dong Kyu Kim, Ghi Chan Kim, "The Changes of CTX, DPD, Osteocalcin, and Bone Mineral Density During the Postmenopausal Period", Annals of Rehabilitation Medicine, 2018-06-30. https://doi.org/10.5535/arm.2018.42.3.441
+11. Ho Joong Jeong, Kyung Hwan Roh, Ghi Chan Kim, Young Ok Kim, **Jae Hyun Lee**, M.J, Lee, Young Joo Sim, "Hyaluronidase treatment of acute lymphedema in a mouse tail model", Lymphology, 2013-12. http://www.scopus.com/inward/record.url?eid=2-s2.0-84896787889&partnerID=MN8TOARS
+12. **Jae Hyun Lee**, Bae Wook Shin, Ho Joong Jeong, Ghi Chan Kim, Dong Kyu Kim, Young Joo Sim, "Ultrasonographic Evaluation of Therapeutic Effects of Complex Decongestive Therapy in Breast Cancer-Related Lymphedema", Ann Rehabil Med, 2013-10. https://doi.org/10.5535/arm.2013.37.5.683
+13. Ho Joong Jeong, Ghi Chan Kim, Young Joo Sim, **Jae Hyun Lee**, "Chronic lymphedema due to constriction", Lymphatic Research and Biology, 2013-06. http://www.scopus.com/inward/record.url?eid=2-s2.0-84879336039&partnerID=MN8TOARS
 
 ## International Journal (Others)
 
 ## International Conference
 
-1.  Jung, Jae-Wook and Jeon, San-Eun and Hong, Jun-Pyo and Kim, Ju-Hyeon and Bae, Yeong-Kyun and Lee, Jae-Hyun. Learning Based Clinical Diagnosis Framework for Inconsistently and Partially Labeled Dataset.: In 2022 Thirteenth International Conference on Ubiquitous and Future Networks (ICUFN), Barcelona, Spain, pp. 489-493, IEEE. July 20, 2022. https://doi.org/10.1109/ICUFN55119.2022.9829699
-1.  Jaehyun Lee, Eunkyung Kim, Jihong Park, Keewon Kim, Jae-Young Lim, Seung Hak Lee, Sang Yoon Lee, Shi-Uk Lee, Sun Gun Chung, Byung-Mo Oh. STANDARD REFERENCE DATA OF MEDIAN NERVE CONDUCTION STUDY WITH CONSIDERATION OF EXTENDED UNCERTAINT:in 2019 AANEM Annual Meeting Abstract Guide Austin, TX, USA, October 16-19, 2019. https://doi.org/10.1002/mus.26647
-1. Jaehyun Lee, Keewon Kim, Sun Gun Chung. Intra-articular Pressure Characteristics of the Knee Joint:in Orthopaedic summit 2018, Las vegas, NV, USA, December 5-8, 2018
-
+1.  Jung, Jae-Wook and Jeon, San-Eun and Hong, Jun-Pyo and Kim, Ju-Hyeon and Bae, Yeong-Kyun and **Lee, Jae-Hyun**. Learning Based Clinical Diagnosis Framework for Inconsistently and Partially Labeled Dataset.: In 2022 Thirteenth International Conference on Ubiquitous and Future Networks (ICUFN), Barcelona, Spain, pp. 489-493, IEEE. July 20, 2022. https://doi.org/10.1109/ICUFN55119.2022.9829699
+2.  **Jaehyun Lee**, Eunkyung Kim, Jihong Park, Keewon Kim, Jae-Young Lim, Seung Hak Lee, Sang Yoon Lee, Shi-Uk Lee, Sun Gun Chung, Byung-Mo Oh. STANDARD REFERENCE DATA OF MEDIAN NERVE CONDUCTION STUDY WITH CONSIDERATION OF EXTENDED UNCERTAINT:in 2019 AANEM Annual Meeting Abstract Guide Austin, TX, USA, October 16-19, 2019. https://doi.org/10.1002/mus.26647
+3.  **Jaehyun Lee**, Keewon Kim, Sun Gun Chung. Intra-articular Pressure Characteristics of the Knee Joint:in Orthopaedic summit 2018, Las vegas, NV, USA, December 5-8, 2018
 
 ## Korean Domestic Journal
 
-1.  Yeong Kyun Bae, Jae Hyun Lee, Young Joo Sim, Ho Joong Jeong, Ghi Chan Kim, Progressive Muscular Atrophy with Hypokalemic Periodic Paralysis: A Case Report, Journal of Electrodiagnosis and Neuromuscular Diseases, 2021-12-30. https://doi.org/10.18214/jend.2021.00052
-2.  Yeong Kyun Bae, Jae Hyun Lee, Young Joo Sim, Ho Joong Jeong, Ghi Chan Kim, "Non-Traumatic Brown-Se´quard Syndrome Misdiagnosed as Stroke: A Case Report", Geriatric Rehabilitation 2021-05. http://www.kagrm.or.kr
-3.  Hyun Jun Chae, Eunkyung Kim, Jae Hyun Lee, Goo Joo Lee, Jihong Park, Jae-Young Lim, Sang Yoon Lee, Shi-Uk Lee, Sun Gun Chung, Byung-Mo Oh, "Ulnar Nerve Conduction Studies: Reference Standards with Extended Uncertainty in Healthy South Korean Adults", J Electrodiagn Neuromuscul Dis, 2021-04-30. https://doi.org/10.18214/jend.2020.00157
-4.  Bo Seong Jang, Ho Joong Jeong, Han Eum Choi, Jae Hyun Lee, Young Joo Sim, Ghi Chan Kim, "Usefulness of Maximal Expiratory Pressure in Evaluating Dysphagia after Ischemic Stroke", Journal of the Korean Dysphagia Society, 2021-01-30. https://doi.org/10.34160/jkds.2021.11.1.008
-5.  Bo Seong Jang, Han Eum Choi, Jae Hyun Lee, Young Joo Sim, Ghi Chan Kim, Ho Joong Jeong, "Usefulness of Psoas Muscle Cross-Sectional Area in Evaluating Physical Performance in Patients with Liver Cirrhosis", Kosin Med J, 2020-12. https://doi.org/10.7180/kmj.2020.35.2.133
-6.  Jae Hyun Lee, Woo Hyun Jeon, Ho Joong Jeong, Ghi Chan Kim, Young Joo Sim, "Factors Associated with Post Stroke Shoulder Subluxation", Kosin Med J, 2015-06. https://doi.org/10.7180/kmj.2015.30.1.59
-7.  Woo Hyun Jeon, Gun Woong Park, Jae Hyun Lee, Ho Joong Jeong, Young Joo Sim, "Association between Location of Brain Lesion and Clinical Factors and Findings of Videofluoroscopic Swallowing Study in Subacute Stroke Patients", Brain Neurorehabil, 2014-03. https://doi.org/10.12786/bn.2014.7.1.54
+1.  Yeong Kyun Bae, **Jae Hyun Lee**, Young Joo Sim, Ho Joong Jeong, Ghi Chan Kim, Progressive Muscular Atrophy with Hypokalemic Periodic Paralysis: A Case Report, Journal of Electrodiagnosis and Neuromuscular Diseases, 2021-12-30. https://doi.org/10.18214/jend.2021.00052
+2.  Yeong Kyun Bae, **Jae Hyun Lee**, Young Joo Sim, Ho Joong Jeong, Ghi Chan Kim, "Non-Traumatic Brown-Se´quard Syndrome Misdiagnosed as Stroke: A Case Report", Geriatric Rehabilitation 2021-05. http://www.kagrm.or.kr
+3.  Hyun Jun Chae, Eunkyung Kim, **Jae Hyun Lee**, Goo Joo Lee, Jihong Park, Jae-Young Lim, Sang Yoon Lee, Shi-Uk Lee, Sun Gun Chung, Byung-Mo Oh, "Ulnar Nerve Conduction Studies: Reference Standards with Extended Uncertainty in Healthy South Korean Adults", J Electrodiagn Neuromuscul Dis, 2021-04-30. https://doi.org/10.18214/jend.2020.00157
+4.  Bo Seong Jang, Ho Joong Jeong, Han Eum Choi, **Jae Hyun Lee**, Young Joo Sim, Ghi Chan Kim, "Usefulness of Maximal Expiratory Pressure in Evaluating Dysphagia after Ischemic Stroke", Journal of the Korean Dysphagia Society, 2021-01-30. https://doi.org/10.34160/jkds.2021.11.1.008
+5.  Bo Seong Jang, Han Eum Choi, **Jae Hyun Lee**, Young Joo Sim, Ghi Chan Kim, Ho Joong Jeong, "Usefulness of Psoas Muscle Cross-Sectional Area in Evaluating Physical Performance in Patients with Liver Cirrhosis", Kosin Med J, 2020-12. https://doi.org/10.7180/kmj.2020.35.2.133
+6.  **Jae Hyun Lee**, Woo Hyun Jeon, Ho Joong Jeong, Ghi Chan Kim, Young Joo Sim, "Factors Associated with Post Stroke Shoulder Subluxation", Kosin Med J, 2015-06. https://doi.org/10.7180/kmj.2015.30.1.59
+7.  Woo Hyun Jeon, Gun Woong Park, **Jae Hyun Lee**, Ho Joong Jeong, Young Joo Sim, "Association between Location of Brain Lesion and Clinical Factors and Findings of Videofluoroscopic Swallowing Study in Subacute Stroke Patients", Brain Neurorehabil, 2014-03. https://doi.org/10.12786/bn.2014.7.1.54
 
 ## Korean Domestic Conference
 
-1.  장예슬, 이재현, 장원두, "연골 이상 검출을 위한 다리 움직임과 관절전도의 상관관계 분석", 대한전자공학회 하계종합학술대회, 2022.06.29-07.01
+1.  장예슬, **이재현**, 장원두, "연골 이상 검출을 위한 다리 움직임과 관절전도의 상관관계 분석", 대한전자공학회 하계종합학술대회, 2022.06.29-07.01
 
 ## Book Chapter & Translation
-
 
 # Research Grant
 
 ## On-Going Projects
 
-1. "Identification of Immunologic Mechanism in Calcific Tendinitis Using Next Generation Sequencing", National Research Foundation of Korea, 2020-09-01 \~ 2023-02-28
+1.  "Identification of Immunologic Mechanism in Calcific Tendinitis Using Next Generation Sequencing", National Research Foundation of Korea, 2020-09-01 \~ 2023-02-28
 
 ## Completed Projects
 
-1. "Prediction of premature posterior pelvic tilt & spinal sagittal alignment using AI and wearable sensor -- Explorative study", Kosin University College of Medicine, 2020-06-01 \~ 2021-05-31 
-1. "Development of Smart Posture Correction System for Rehabilitation of Patients with Spinal Diseases", Pukyong National University (PKNU), 2019-10-01 \~ 2020-01-31 
-1. "Development and Dissemination on National Standard Reference Data", Ministry of Trade, Industry and Energy, 2019-06-01 \~ 2019-12-31 
-1. "Physiologic Utility of Myokines in Elderly Cohort", Ministry of Science and ICT, 2018-05-01 \~ 2019-02-28 
-1. "Development of a mobile healthcare system based on kine-biomarkers to promote spine health", Ministry of Science and ICT, 2018-04-01 \~ 2019-02-28
+1.  "Prediction of premature posterior pelvic tilt & spinal sagittal alignment using AI and wearable sensor -- Explorative study", Kosin University College of Medicine, 2020-06-01 \~ 2021-05-31
+2.  "Development of Smart Posture Correction System for Rehabilitation of Patients with Spinal Diseases", Pukyong National University (PKNU), 2019-10-01 \~ 2020-01-31
+3.  "Development and Dissemination on National Standard Reference Data", Ministry of Trade, Industry and Energy, 2019-06-01 \~ 2019-12-31
+4.  "Physiologic Utility of Myokines in Elderly Cohort", Ministry of Science and ICT, 2018-05-01 \~ 2019-02-28
+5.  "Development of a mobile healthcare system based on kine-biomarkers to promote spine health", Ministry of Science and ICT, 2018-04-01 \~ 2019-02-28

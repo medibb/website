@@ -5,10 +5,12 @@ project:
 website:
   title: "MSK8REHAB"
   navbar:
+    brand:
+      href: index.qmd
     left:
-      - href: index.qmd
       - 01publications.qmd
       - 02activities.qmd
+      - 03album.qmd
     right:
       - about.qmd
       - icon: github
