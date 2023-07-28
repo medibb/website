@@ -130,54 +130,53 @@
 
 ## Teaching
 
--   Course: Student Internship Program in Rehabilitation Medicine
-    -   Academic Year: 2022-2023
-    -   Institution: Kosin University College of Medicine
-    -   Role: Supervising Professor
--   Course: Clinical Practicum in Rehabilitation Medicine
-    -   Academic Year: 2020-2023
-    -   Institution: Kosin University College of Medicine
-    -   Role: Course Coordinator(2022-) and Lecturer
--   Course: CPX Internal Special Lecture
-    -   Academic Year: 2020-2023
-    -   Institution: Kosin University College of Medicine
-    -   Role: Evaluator and Lecturer
--   Course: Musculoskeletal system
-    -   title: Musculoskeletal rehabilitation
-    -   Academic Year: 2020-2023
-    -   Institution: Kosin University College of Medicine
-    -   Role: Lecturer
--   Course: Respiratory Medicine
-    -   title: Pulmonary rehabilitation
-    -   Academic Year: 2020-2023
-    -   Institution: Kosin University College of Medicine
-    -   Role: Lecturer
--   Course: Neuroscience
-    -   title: Pain & pain pathway
-    -   Academic Year: 2020-2023
-    -   Institution: Kosin University College of Medicine
-    -   Role: Lecturer
--   Course: Growth and Aging
-    -   title: Geriatric Musculoskeletal Disorders
-    -   Academic Year: 2020-2022
-    -   Institution: Kosin University College of Medicine
-    -   Role: Lecturer
--   Course: Medical Informatics in rehabilitative medicine
-    -   title: Medical Informatics
-    -   Academic Year: 2020-2022
-    -   Institution: Kosin University College of Medicine
-    -   Role: Lecturer
--   Course: Graduate School of Public Health
-    -   title: Disease Control in the Field of Musculoskeletal Rehabilitation
-    -   Academic Year: 2019-2020
-    -   Institution: Kosin University Graduate School of Public Health
-    -   Role: Lecturer
+-   **Course**: Student Internship Program in Rehabilitation Medicine
+    -   **Academic Year**: 2022-2023
+    -   **Institution**: Kosin University College of Medicine
+    -   **Role**: Supervising Professor
+-   **Course**: Clinical Practicum in Rehabilitation Medicine
+    -   **Academic Year**: 2020-2023
+    -   **Institution**: Kosin University College of Medicine
+    -   **Role**: **Course** Coordinator(2022-) and Lecturer
+-   **Course**: CPX Internal Special Lecture
+    -   **Academic Year**: 2020-2023
+    -   **Institution**: Kosin University College of Medicine
+    -   **Role**: Evaluator and Lecturer
+-   **Course**: Musculoskeletal system
+    -   **title**: Musculoskeletal rehabilitation
+    -   **Academic Year**: 2020-2023
+    -   **Institution**: Kosin University College of Medicine
+    -   **Role**: Lecturer
+-   **Course**: Respiratory Medicine
+    -   **title**: Pulmonary rehabilitation
+    -   **Academic Year**: 2020-2023
+    -   **Institution**: Kosin University College of Medicine
+    -   **Role**: Lecturer
+-   **Course**: Neuroscience
+    -   **title**: Pain & pain pathway
+    -   **Academic Year**: 2020-2023
+    -   **Institution**: Kosin University College of Medicine
+    -   **Role**: Lecturer
+-   **Course**: Growth and Aging
+    -   **title**: Geriatric Musculoskeletal Disorders
+    -   **Academic Year**: 2020-2022
+    -   **Institution**: Kosin University College of Medicine
+    -   **Role**: Lecturer
+-   **Course**: Medical Informatics in rehabilitative medicine
+    -   **title**: Medical Informatics
+    -   **Academic Year**: 2020-2022
+    -   **Institution**: Kosin University College of Medicine
+    -   **Role**: Lecturer
+-   **Course**: Graduate School of Public Health
+    -   **title**: Disease Control in the Field of Musculoskeletal Rehabilitation
+    -   **Academic Year**: 2019-2020
+    -   **Institution**: Kosin University Graduate School of Public Health
+    -   **Role**: Lecturer
 
 ## AWARDS
 
 1.  **AWARD: Best oral presentation**
-    -   **title: "Pressure Characteristics of the Knee Joints"**
-
+    -   ****title**: "Pressure Characteristics of the Knee Joints"**
     -   **conference**: 2019 Korean Academy of Neuro-Musculoskeletal Sonography Spring Academic Conference
 
 ## Media
