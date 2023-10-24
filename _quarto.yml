@@ -15,7 +15,7 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/medibb
-      - icon: vercel
+      - icon: flower1
         href: https://msk8rehab.vercel.app/
       - icon: instagram
         href: https://www.instagram.com/msk8rehab
