@@ -2,7 +2,7 @@
 
 ## International Journals (SCI/SCI-E/SCOPUS)
 
-1.  **Jae Hyun Lee**, Dong-Kun Kim, Mi-Yeon Lee, Han-Sol Lim, Min-Jung Kwon, Yong-Taek Lee, Kyung Jae Yoon, Chul-Hyun Park, "The Association of Carbohydrate Antigen (CA) 19-9 levels and Low Skeletal Muscle Mass in Healthy Adults", Nutrients, 2023 accepted for publication.
+1.  **Jae Hyun Lee**, Dong-Kun Kim, Mi-Yeon Lee, Han-Sol Lim, Min-Jung Kwon, Yong-Taek Lee, Kyung Jae Yoon, Chul-Hyun Park, "The Association of Carbohydrate Antigen (CA) 19-9 levels and Low Skeletal Muscle Mass in Healthy Adults", Nutrients, 2023-07-30. https://doi.org/10.3390/nu15153394
 2.  Oh Se Hyun, Kim Ju Hyeon, Seong Seung Tae, Park Jun Young, **Lee Jae Hyun**, Kim Ghi Chan, Jeong Ho Joong MD, Sim Young Joo, "Lymphoscintigraphy in patients with breast cancer-related lymphedema after sentinel lymph node dissection and axillary radiation therapy", Medicine, 2022-12-09. https://doi.org/10.1097/MD.0000000000031985
 3.  **Jae Hyun Lee**, Keewon Kim, Sun Gun Chung, "Intra-articular pressure characteristics of the knee joint: An exploratory study", Journal of Orthopaedic Research, 2022-09-18. https://doi.org/10.1002/jor.25236
 4.  Park Jun Young, Kim Ju Hyeon, Sim Young Joo, Jeong Ho Joong, **Lee Jae Hyun**, Kim Ghi Chan MD, "The association between the serum vitamin D levels and the stroke lesion size, functional ability, and cognition in elderly Korean ischemic stroke patients", Medicine, 2022-09-02. https://doi.org/10.1097/MD.0000000000030402
