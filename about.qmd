@@ -7,12 +7,16 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/msk8rehab
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/jaehyun-lee-34246ab2
-    - icon: github
-      text: Github
-      href: https://github.com/medibb
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/msk8rehab
+    - icon: flower1
+      text: Digital garden
+      href: https://msk8rehab.vercel.app/
 ---
 
-About this blog
+Hi!, I'm Jaehyun Lee
+
+I have been working in the medical field for 13 years, specializing in musculoskeletal rehabilitation.
+
+I aspire to share knowledge, ideas, and life experiences with others and inspire one another.
