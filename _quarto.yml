@@ -14,12 +14,11 @@ website:
     right:
       - about.qmd
       - icon: ORCiD
-        text: iD
+        text: ORCiD
         href: https://orcid.org/0000-0002-4927-9722
-      - icon: github
-        href: https://github.com/medibb
-      - icon: linkedin
-        href: https://linkedin.com/in/jaehyun-lee-34246ab2
+      - icon: flower1
+        text: Digital garden
+        href: https://msk8rehab.vercel.app/
     toc:
       before: |
         <nav class="toc">

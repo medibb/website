@@ -5,14 +5,13 @@ about:
   template: jolla
   links:
     - icon: twitter
-      text: Twitter
       href: https://twitter.com/msk8rehab
     - icon: instagram
-      text: Instagram
       href: https://www.instagram.com/msk8rehab
-    - icon: flower1
-      text: Digital garden
-      href: https://msk8rehab.vercel.app/
+    - icon: github
+      href: https://github.com/medibb
+    - icon: linkedin
+      href: https://linkedin.com/in/jaehyun-lee-34246ab2
 ---
 
 Hi!, I'm Jaehyun Lee
