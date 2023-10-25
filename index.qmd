@@ -8,7 +8,7 @@
 
 Email: JHL\@kosin.ac.kr
 
-## Education
+## Education & Training
 
 **Seoul National University Hospital** - Seoul, Korea
 
@@ -28,17 +28,19 @@ M.S., Graduate School of Medicine
 
 B.S., College of Medicine
 
-## Clinical Focus
+## Clinical Field
 
 Musculoskeletal Rehabilitation
 
--   Spine disease, discogenic pain, radiating pain
+-   Spine, Joints and Adjacent weight bearing soft tissues
 
--   Joint disease, shoulder, knee, hip, elbow, hand & wrist, foot & ankle\
+    -   Ultrasound & Fluoroscopy guided intervention
+
+    -   Therapeutic exercise education\
 
 ## Research Interests
 
--   Basic & clinical research about musculoskeletal systems
+-   Unveil the truth in MSK medicine (basic explorative studies)
 -   Recent research topics
     -   Calcific tendinitis: genetic background & radiologic quantification
     -   Spinal stability: biokinetics, biomechanics of spinal balance and motor control

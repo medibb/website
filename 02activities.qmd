@@ -1,8 +1,10 @@
-# Academic Activities
+---
+title: "Academic activities"
+---
 
-## Invited Lectures
+# Invited Lectures
 
-### 2023
+## 2023
 
 1.  **Presentation Title:** Anatomy of spine
     -   **Conference:** The 3rd Hands-on Workshop of The Korean Academy of Neuro-Musculoskeletal Sonography 2023
@@ -25,7 +27,7 @@
     -   **Organizing institution:** Korean Association of Pain Medicine
     -   **Date:** March 18, 2023
 
-### 2022
+## 2022
 
 1.  **Presentation Title:** Overview of osteoarthritis & Rheumatic diseases
     -   **Conference:** Korean Association of Pain Medicine Review Course 2022
@@ -56,7 +58,7 @@
     -   **Organizing institution:** Korean Academy of Neuro-Musculoskeletal Sonography
     -   **Date:** January 15, 2022
 
-### \~ 2021
+## \~ 2021
 
 8.  **Presentation Title:** Common Cervical Spine Disorder
     -   **Conference:** Korean Association of Pain Medicine Online Review Course 2021
@@ -75,7 +77,7 @@
     -   **Organizing institution:** Korean Association of Pain Medicine
     -   **Date:** November 14, 2020
 
-### Invited Lectures on Branches and Regional GaThering
+## Branches and Regional Gathering
 
 1.  **Presentation Title:** The Utility of InBody in The Diagnosis of Sarcopenia
     -   **Conference:** The 150th Meeting of The Korean Academy of Rehabilitation Medicine, Busan-Ulsan-Gyeongnam Region
@@ -90,7 +92,7 @@
     -   **Organizing institution:** The Korean Academy of Rehabilitation Medicine, Busan-Ulsan-Gyeongnam Region
     -   **Date:** November 28, 2019
 
-## Professional Memberships
+# Professional Memberships
 
 -   Korean Medical Association
     -   Member (2010-present)
@@ -119,14 +121,14 @@
 -   International Society of Physical & Rehabilitation Medicine
     -   Member (2022-present)
 
-## Reviewer
+# Review
 
 -   The 51st Annual Meeting and International Conference of The Korean Academy of Rehabilitation Medicine (KARM 2023)
 -   Annals of Rehabilitation Medicine : 2023 - present
 
-## Teaching
+# Education
 
-### University
+## University
 
 -   **Course**: Student Internship Program in Rehabilitation Medicine
     -   **Academic Year**: 2022-2023
@@ -171,7 +173,7 @@
     -   **Institution**: Kosin University Graduate School of Public Health
     -   **Role**: Lecturer
 
-### Academic workshop
+## Academic workshop
 
 -   **Course** Ultrasound Practicum of The Peripheral Nerve and Spine
     -   **Title** The 3rd Hands-on Workshop of The Korean Academy of Neuro-Musculoskeletal Sonography 2023
@@ -204,13 +206,13 @@
     -   **Role**: Practicum Instructor
     -   **Date** November 27, 2021
 
-## AWARDS
+# AWARDS
 
 1.  **AWARD: Best oral presentation**
     -   **Title**: "Pressure Characteristics of The Knee Joints"
     -   **conference**: 2019 Korean Academy of Neuro-Musculoskeletal Sonography Spring Academic Conference
 
-## Media
+# Media
 
 1.  **Title:** 'KNN 건강365' 어깨 통증에 응급실? 원인은 돌가루
     -   **Date:** January 24, 2022 https://news.knn.co.kr/news/article/123830
