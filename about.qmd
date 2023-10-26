@@ -1,6 +1,5 @@
 ---
 title: "About"
-icon: twitter
 image: image/profile.png
 about: 
   template: jolla
