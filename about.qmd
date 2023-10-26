@@ -1,5 +1,6 @@
 ---
 title: "About"
+icon: twitter
 image: image/profile.png
 about: 
   template: jolla
@@ -12,6 +13,9 @@ about:
       href: https://github.com/medibb
     - icon: linkedin
       href: https://linkedin.com/in/jaehyun-lee-34246ab2
+    - icon: ORCiD
+      text: ORCiD
+      href: https://orcid.org/0000-0002-4927-9722
 ---
 
 Hi!, I'm Jaehyun Lee
