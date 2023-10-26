@@ -13,9 +13,6 @@ website:
       - 03album.qmd
     right:
       - about.qmd
-      - icon: ORCiD
-        text: ORCiD
-        href: https://orcid.org/0000-0002-4927-9722
       - icon: flower1
         text: Digital garden
         href: https://msk8rehab.vercel.app/
