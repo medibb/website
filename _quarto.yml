@@ -3,18 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "MSK8REHAB"
+  title: "Jaehyun Lee, MD"
   navbar:
     brand:
       href: index.qmd
     left:
-      - 01publications.qmd
-      - 02activities.qmd
-      - 03album.qmd
+      - text: Publications & Grants
+        href: 01publications.qmd
+      - text: Academic Activities
+        href: 02activities.qmd
+      - text: Album
+        href: 03album.qmd
+      - 04blog.qmd
     right:
-      - about.qmd
-      - icon: flower1
-        text: Digital garden
+      - icon: person-lines-fill
+        text: Curriculum Vitae
+        href: about.qmd
+      - icon: box-arrow-up-right
+        text: Digital Garden
         href: https://msk8rehab.vercel.app/
     toc:
       before: |
